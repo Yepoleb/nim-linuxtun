@@ -1,5 +1,5 @@
-import ioctl_req
-import linux_if
+import linuxtun/ioctl_req
+import linuxtun/linux_if
 export linux_if
 
 
